@@ -1,0 +1,7 @@
+Transaction History for: Eli Manning (eli10)
+Previous Balance: $2522500 :Deposited $2500, Total: 2525000
+Previous Balance: $2525000.0 :Withdrew $45000, Total: 2480000
+Previous Balance: $2480000 :Deposited $750000, Total: 3230000
+Previous Balance: $3230000 :Deposited $25000, Total: 3255000
+Previous Balance: $3255000.0 :Withdrew $1000000, Total: 2255000
+Previous Balance: $2255000.0 :Withdrew $450000, Total: 1805000

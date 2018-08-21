@@ -1,0 +1,190 @@
+2018-08-19 12:21:21 TRACE Launcher:12 - Beginning application
+2018-08-19 12:21:21 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:32:16 TRACE Launcher:12 - Beginning application
+2018-08-19 12:32:16 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:33:17 WARN  BankingDaoJdbc:45 - failed to create new user
+2018-08-19 12:33:17 WARN  BankingDaoJdbc:58 - failed to create new account
+2018-08-19 12:33:17 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:41:13 TRACE Launcher:12 - Beginning application
+2018-08-19 12:41:13 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:43:41 TRACE Launcher:12 - Beginning application
+2018-08-19 12:43:41 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:43:49 DEBUG LoginScreen:31 - receives users credentials
+2018-08-19 12:43:50 WARN  BankingDaoJdbc:80 - failed to find user with provided credentials from the db
+2018-08-19 12:43:50 INFO  LoginScreen:39 - invalid new user credentials
+2018-08-19 12:43:50 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:45:21 TRACE Launcher:12 - Beginning application
+2018-08-19 12:45:21 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:45:59 WARN  BankingDaoJdbc:45 - failed to create new user
+2018-08-19 12:45:59 WARN  BankingDaoJdbc:58 - failed to create new account
+2018-08-19 12:45:59 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:50:13 TRACE Launcher:12 - Beginning application
+2018-08-19 12:50:13 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:50:47 WARN  BankingDaoJdbc:45 - failed to create new user
+2018-08-19 12:50:47 WARN  BankingDaoJdbc:58 - failed to create new account
+2018-08-19 12:50:47 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:54:52 TRACE Launcher:12 - Beginning application
+2018-08-19 12:54:52 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:55:34 WARN  BankingDaoJdbc:44 - failed to create new user
+2018-08-19 12:55:34 WARN  BankingDaoJdbc:55 - failed to create new account
+2018-08-19 12:55:34 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:59:39 TRACE Launcher:12 - Beginning application
+2018-08-19 12:59:39 DEBUG LoginScreen:22 - started login screen
+2018-08-19 12:59:50 TRACE Launcher:12 - Beginning application
+2018-08-19 12:59:50 DEBUG LoginScreen:22 - started login screen
+2018-08-19 13:00:19 WARN  BankingDaoJdbc:44 - failed to create new user
+2018-08-19 13:00:19 WARN  BankingDaoJdbc:56 - failed to create new account
+2018-08-19 13:00:19 DEBUG LoginScreen:22 - started login screen
+2018-08-19 13:02:00 TRACE Launcher:12 - Beginning application
+2018-08-19 13:02:00 DEBUG LoginScreen:22 - started login screen
+2018-08-19 13:03:46 WARN  BankingDaoJdbc:43 - failed to create new user
+2018-08-19 13:03:46 WARN  BankingDaoJdbc:55 - failed to create new account
+2018-08-19 13:03:46 DEBUG LoginScreen:22 - started login screen
+2018-08-19 13:12:27 TRACE Launcher:12 - Beginning application
+2018-08-19 13:12:27 DEBUG LoginScreen:22 - started login screen
+2018-08-19 13:13:05 TRACE BankingDaoJdbc:42 - 1recored created
+2018-08-19 13:13:05 TRACE BankingDaoJdbc:56 - 1recored created
+2018-08-19 13:13:05 DEBUG LoginScreen:22 - started login screen
+2018-08-19 13:21:49 WARN  BankingDaoJdbc:44 - failed to create new user
+2018-08-19 13:21:49 WARN  BankingDaoJdbc:58 - failed to create new account
+2018-08-19 13:21:49 DEBUG LoginScreen:22 - started login screen
+2018-08-19 15:32:29 TRACE Launcher:12 - Beginning application
+2018-08-19 15:32:29 DEBUG LoginScreen:22 - started login screen
+2018-08-19 15:33:08 TRACE BankingDaoJdbc:42 - 1recored created
+2018-08-19 15:33:08 TRACE BankingDaoJdbc:56 - 1recored created
+2018-08-19 15:33:08 DEBUG LoginScreen:22 - started login screen
+2018-08-19 15:36:04 TRACE BankingDaoJdbc:42 - 1recored created
+2018-08-19 15:36:04 TRACE BankingDaoJdbc:56 - 1recored created
+2018-08-19 15:36:04 DEBUG LoginScreen:22 - started login screen
+2018-08-20 00:11:19 TRACE Launcher:12 - Beginning application
+2018-08-20 00:11:19 DEBUG LoginScreen:22 - started login screen
+2018-08-20 00:11:52 TRACE BankingDaoJdbc:42 - 1recored created
+2018-08-20 00:11:52 TRACE BankingDaoJdbc:56 - 1recored created
+2018-08-20 00:11:52 DEBUG LoginScreen:22 - started login screen
+2018-08-20 00:12:20 DEBUG LoginScreen:31 - receives users credentials
+2018-08-20 00:12:20 INFO  LoginScreen:36 - user successfully logged in
+2018-08-20 00:13:16 TRACE BankingDaoJdbc:112 - 1recored created
+2018-08-20 00:14:50 TRACE Launcher:12 - Beginning application
+2018-08-20 00:14:50 DEBUG LoginScreen:22 - started login screen
+2018-08-20 00:14:56 DEBUG LoginScreen:31 - receives users credentials
+2018-08-20 00:14:57 INFO  LoginScreen:36 - user successfully logged in
+2018-08-20 00:15:38 TRACE BankingDaoJdbc:98 - 1recored created
+2018-08-20 10:06:36 TRACE Launcher:12 - Beginning application
+2018-08-20 10:06:36 DEBUG LoginScreen:22 - started login screen
+2018-08-20 10:06:48 DEBUG LoginScreen:31 - receives users credentials
+2018-08-20 10:06:48 INFO  LoginScreen:36 - user successfully logged in
+2018-08-20 10:07:23 TRACE BankingDaoJdbc:140 - 1 user deleted from database
+2018-08-20 10:07:23 DEBUG LoginScreen:22 - started login screen
+2018-08-20 13:02:34 TRACE Launcher:12 - Beginning application
+2018-08-20 13:02:34 DEBUG LoginScreen:22 - started login screen
+2018-08-20 13:03:10 TRACE BankingDaoJdbc:44 - 1recored created
+2018-08-20 13:03:11 TRACE BankingDaoJdbc:58 - 1recored created
+2018-08-20 13:03:11 DEBUG LoginScreen:22 - started login screen
+2018-08-20 13:03:16 DEBUG LoginScreen:31 - receives users credentials
+2018-08-20 13:03:16 INFO  LoginScreen:36 - user successfully logged in
+2018-08-20 13:04:44 TRACE BankingDaoJdbc:129 - 1 user password updated
+2018-08-20 13:07:14 TRACE BankingDaoJdbc:114 - 1recored created
+2018-08-20 13:09:45 TRACE Launcher:12 - Beginning application
+2018-08-20 13:09:45 DEBUG LoginScreen:22 - started login screen
+2018-08-20 13:09:57 DEBUG LoginScreen:31 - receives users credentials
+2018-08-20 13:09:57 INFO  LoginScreen:36 - user successfully logged in
+2018-08-20 13:10:00 DEBUG LoginScreen:22 - started login screen
+2018-08-20 13:21:45 TRACE BankingDaoJdbc:44 - 1recored created
+2018-08-20 13:21:45 TRACE BankingDaoJdbc:58 - 1recored created
+2018-08-20 13:21:45 DEBUG LoginScreen:22 - started login screen
+2018-08-20 13:21:54 DEBUG LoginScreen:31 - receives users credentials
+2018-08-20 13:21:54 INFO  LoginScreen:36 - user successfully logged in
+2018-08-20 13:23:40 TRACE BankingDaoJdbc:129 - 1 user password updated
+2018-08-20 14:47:35 TRACE Launcher:12 - Beginning application
+2018-08-20 14:47:35 DEBUG LoginScreen:22 - started login screen
+2018-08-20 14:48:25 TRACE Launcher:12 - Beginning application
+2018-08-20 14:48:25 DEBUG LoginScreen:22 - started login screen
+2018-08-20 14:57:04 TRACE Launcher:12 - Beginning application
+2018-08-20 14:57:04 DEBUG LoginScreen:22 - started login screen
+2018-08-20 14:57:20 DEBUG LoginScreen:33 - receives users credentials
+2018-08-20 14:57:20 INFO  LoginScreen:38 - user successfully logged in
+2018-08-20 14:59:54 TRACE BankingDaoJdbc:114 - 1 recored created
+2018-08-20 15:02:35 TRACE Launcher:12 - Beginning application
+2018-08-20 15:02:35 DEBUG LoginScreen:22 - started login screen
+2018-08-20 15:02:58 DEBUG LoginScreen:33 - receives users credentials
+2018-08-20 15:02:59 INFO  LoginScreen:38 - user successfully logged in
+2018-08-20 15:04:57 TRACE Launcher:12 - Beginning application
+2018-08-20 15:04:57 DEBUG LoginScreen:22 - started login screen
+2018-08-20 15:10:08 DEBUG LoginScreen:33 - receives users credentials
+2018-08-20 15:10:08 INFO  LoginScreen:38 - user successfully logged in
+2018-08-20 15:38:12 TRACE Launcher:12 - Beginning application
+2018-08-20 15:38:12 DEBUG LoginScreen:22 - started login screen
+2018-08-20 15:38:19 DEBUG LoginScreen:35 - receives users credentials
+2018-08-20 15:38:20 INFO  LoginScreen:40 - user successfully logged in
+2018-08-20 15:38:27 WARN  BankingDaoJdbc:116 - Could not update user balance
+2018-08-20 15:39:08 TRACE BankingDaoJdbc:155 - 1 user deleted from database
+2018-08-20 15:39:08 DEBUG LoginScreen:22 - started login screen
+2018-08-20 15:39:17 DEBUG LoginScreen:35 - receives users credentials
+2018-08-20 15:39:17 INFO  LoginScreen:40 - user successfully logged in
+2018-08-20 15:39:24 TRACE BankingDaoJdbc:155 - 1 user deleted from database
+2018-08-20 15:39:24 DEBUG LoginScreen:22 - started login screen
+2018-08-20 15:39:58 TRACE BankingDaoJdbc:44 - 1 recored created
+2018-08-20 15:39:58 TRACE BankingDaoJdbc:58 - 1 recored created
+2018-08-20 15:39:58 DEBUG LoginScreen:22 - started login screen
+2018-08-20 15:40:16 DEBUG LoginScreen:35 - receives users credentials
+2018-08-20 15:40:16 INFO  LoginScreen:40 - user successfully logged in
+2018-08-20 15:40:25 WARN  BankingDaoJdbc:116 - Could not update user balance
+2018-08-20 15:41:15 TRACE BankingDaoJdbc:155 - 1 user deleted from database
+2018-08-20 15:41:15 DEBUG LoginScreen:22 - started login screen
+2018-08-20 15:43:53 TRACE Launcher:12 - Beginning application
+2018-08-20 15:43:53 DEBUG LoginScreen:22 - started login screen
+2018-08-20 15:44:26 TRACE BankingDaoJdbc:44 - 1 recored created
+2018-08-20 15:44:26 TRACE BankingDaoJdbc:58 - 1 recored created
+2018-08-20 15:44:26 DEBUG LoginScreen:22 - started login screen
+2018-08-20 15:45:26 DEBUG LoginScreen:35 - receives users credentials
+2018-08-20 15:45:26 INFO  LoginScreen:40 - user successfully logged in
+2018-08-20 15:45:33 TRACE BankingDaoJdbc:114 - 1 recored created
+2018-08-20 15:46:12 TRACE BankingDaoJdbc:114 - 1 recored created
+2018-08-20 15:49:46 DEBUG LoginScreen:22 - started login screen
+2018-08-20 15:50:36 WARN  BankingDaoJdbc:46 - failed to create new user
+2018-08-20 15:50:36 WARN  BankingDaoJdbc:60 - failed to create new account
+2018-08-20 15:50:36 DEBUG LoginScreen:22 - started login screen
+2018-08-20 15:52:30 TRACE Launcher:12 - Beginning application
+2018-08-20 15:52:30 DEBUG LoginScreen:22 - started login screen
+2018-08-20 16:53:43 TRACE Launcher:12 - Beginning application
+2018-08-20 16:53:43 DEBUG LoginScreen:22 - started login screen
+2018-08-20 16:53:52 DEBUG LoginScreen:35 - receives users credentials
+2018-08-20 16:53:52 INFO  LoginScreen:40 - user successfully logged in
+2018-08-20 16:54:08 TRACE BankingDaoJdbc:118 - 1 recored created
+2018-08-20 16:54:21 DEBUG LoginScreen:22 - started login screen
+2018-08-20 18:15:46 TRACE Launcher:12 - Beginning application
+2018-08-20 18:15:46 DEBUG LoginScreen:22 - started login screen
+2018-08-20 18:15:55 DEBUG LoginScreen:35 - receives users credentials
+2018-08-20 18:15:55 INFO  LoginScreen:40 - user successfully logged in
+2018-08-20 18:16:10 TRACE BankingDaoJdbc:118 - 1 recored created
+2018-08-20 18:16:11 TRACE BankingDaoJdbc:128 - 1 recored created
+2018-08-20 18:17:01 TRACE BankingDaoJdbc:118 - 1 recored created
+2018-08-20 18:17:01 TRACE BankingDaoJdbc:128 - 1 recored created
+2018-08-20 18:17:50 DEBUG LoginScreen:22 - started login screen
+2018-08-20 18:18:43 TRACE BankingDaoJdbc:48 - 1 recored created
+2018-08-20 18:18:43 TRACE BankingDaoJdbc:62 - 1 recored created
+2018-08-20 18:18:43 DEBUG LoginScreen:22 - started login screen
+2018-08-20 18:42:00 TRACE Launcher:12 - Beginning application
+2018-08-20 18:42:00 DEBUG LoginScreen:22 - started login screen
+2018-08-20 18:42:20 DEBUG AdminLoginScreen:29 - receives admin credentials
+2018-08-20 18:45:25 TRACE Launcher:12 - Beginning application
+2018-08-20 18:45:25 DEBUG LoginScreen:22 - started login screen
+2018-08-20 20:23:43 TRACE Launcher:12 - Beginning application
+2018-08-20 20:23:43 DEBUG LoginScreen:22 - started login screen
+2018-08-20 20:24:10 INFO  AdminLoginScreen:27 - admin successfully login
+2018-08-20 20:33:55 TRACE Launcher:12 - Beginning application
+2018-08-20 20:33:55 DEBUG LoginScreen:22 - started login screen
+2018-08-20 20:37:07 INFO  AdminLoginScreen:27 - admin successfully login
+2018-08-20 21:14:35 TRACE Launcher:12 - Beginning application
+2018-08-20 21:14:35 DEBUG LoginScreen:22 - started login screen
+2018-08-20 21:14:51 INFO  AdminLoginScreen:27 - admin successfully login
+2018-08-20 21:14:59 TRACE AdminDaoJdbc:64 - 1 user deleted from database
+2018-08-20 21:45:05 TRACE Launcher:12 - Beginning application
+2018-08-20 21:45:05 DEBUG LoginScreen:22 - started login screen
+2018-08-20 21:45:50 INFO  AdminLoginScreen:27 - admin successfully login
+2018-08-20 22:08:47 TRACE Launcher:12 - Beginning application
+2018-08-20 22:08:47 DEBUG LoginScreen:22 - started login screen
+2018-08-20 22:09:00 DEBUG LoginScreen:35 - receives users credentials
+2018-08-20 22:09:00 INFO  LoginScreen:40 - user successfully logged in
+2018-08-20 22:09:22 TRACE BankingDaoJdbc:118 - 1 recored created
+2018-08-20 22:09:22 TRACE BankingDaoJdbc:128 - 1 recored created
