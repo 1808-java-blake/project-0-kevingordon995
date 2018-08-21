@@ -1,5 +1,0 @@
-Transaction History for: Russell Wilson (russ3)
-Previous Balance: 3500.0 :Deposited $500, Total: 4000.0
-Previous Balance: 4000.0 :Withdrew $250, Total: 3750.0
-Previous Balance: 3750.0 :Deposited $5000, Total: 8750.0
-Previous Balance: 8750.0 :Deposited $125, Total: 8875.0
